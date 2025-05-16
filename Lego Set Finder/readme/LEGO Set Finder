@@ -1,0 +1,33 @@
+# 🧱 LEGO Set Finder
+
+This project helps users explore LEGO sets and analyze data interactively using a Power BI dashboard. It includes data files, a Power BI report, and supporting documentation.
+
+---
+
+## 📂 Repository Contents
+
+| File Name                         | Description                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| `Lego Set Finder.pbix`           | **Power BI report file** – The main interactive dashboard built in Power BI. |
+| `Lego Set Finder.pdf`            | **Static PDF version** of the Power BI report for quick viewing or sharing. |
+| `lego_sets.csv`                  | **Dataset** – Contains detailed information about LEGO sets (themes, pieces, etc.). |
+| `lego_sets_data_dictionary.csv`  | **Data dictionary** – Explains each column in `lego_sets.csv` for better understanding of the data. |
+| `pngimg.com - lego_PNG84.png`    | **LEGO logo image** used for visualization or branding in the dashboard.   |
+
+---
+
+## 🚀 Getting Started
+
+1. Open the `.pbix` file in Power BI Desktop to explore the dashboard.
+2. Use the `.csv` files to modify or expand the dataset.
+3. Refer to the PDF version if you don’t have Power BI installed.
+
+---
+
+## 📊 Features
+
+- Filter LEGO sets by theme, year, or number of pieces.
+- Visualize the popularity and pricing of sets.
+- Interactive slicers and cards for deep dive analysis.
+
+---
